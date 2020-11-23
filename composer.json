@@ -1,0 +1,12 @@
+{
+    "name": "atr0pos/groupcall",
+    "description": "A simple interface for groupcall API",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Atr0pos",
+            "email": "piersbrady@gmail.com"
+        }
+    ],
+    "require": {}
+}
